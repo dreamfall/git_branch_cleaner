@@ -1,6 +1,6 @@
 # GitBranchCleaner
 
-TODO: Write a gem description
+Deletes remote branches merged in origin/master
 
 ## Installation
 

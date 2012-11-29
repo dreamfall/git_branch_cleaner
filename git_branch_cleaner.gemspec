@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = GitBranchCleaner::VERSION
   gem.authors       = ["dreamfall"]
   gem.email         = ["amarant.st@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Deletes remote branches merged in origin/master}
+  gem.summary       = %q{Deletes remote branches merged in origin/master}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
