@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'git_branch_cleaner'
+
+GitBranchCleaner::Cleanuper.new(ARGV[0] == '-f').execute!
+
