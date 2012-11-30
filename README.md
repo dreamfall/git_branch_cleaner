@@ -2,6 +2,9 @@
 
 Deletes remote branches merged in origin/master
 
+## WARNING
+It is not ready at all yet, be patient
+
 ## Installation
 
 Add this line to your application's Gemfile:
