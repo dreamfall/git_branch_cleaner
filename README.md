@@ -1,9 +1,10 @@
 # GitBranchCleaner
 
 Deletes remote branches merged in origin/master
+Development was terminated due to Github's release of `detele branch` button which appears after PR is merged
 
 ## WARNING
-It is not ready at all yet, be patient
+It is not ready yet. 
 
 ## Installation
 
